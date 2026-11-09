@@ -28,8 +28,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="30%"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00C2A8,100:0F2027&height=100&section=footer" width="100%"/>
